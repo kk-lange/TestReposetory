@@ -9,6 +9,7 @@ Put in some text
 ## Prerequisites 
 
 *Optional*
+
 1. lib1
    - How to install
 2. lib2
@@ -17,6 +18,7 @@ Put in some text
 ## Usage
 
 *Optional*
+
 Put in some text
 
 *----- Exemple quoting code ------*
